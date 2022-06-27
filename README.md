@@ -32,7 +32,7 @@ A MD WhatsApp Bot Created by <a href="https://github.com/Sithujaya01" target="_b
 
 > Frist , Click Fork Now Buttoun Above
 
-> Then Copy This Url https://heroku.com/deploy?template=https://github.com/ID/292
+> Then Copy This Url https://heroku.com/deploy?template=https://github.com/polrip/292
 
 > Now Change 'ID' with your Github USer NAme.
 
